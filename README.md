@@ -18,7 +18,7 @@ There are two pull requests open on this repo. Each change is in its own branch.
 
 _ Any errors, missing features, missing tests, or failing tests will disqualify the solution. _
 
-## Instructions
+## Instructions 
 
 How to attempt this challenge:
 
